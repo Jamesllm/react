@@ -1,0 +1,15 @@
+.contenido{
+    width: 60%;
+    margin: auto;
+    margin-top: 2em;
+}
+.title{color: red;}
+.descrip{color: #fff;}
+.app{color: chartreuse;}
+.image{width: 100%; height: auto;}
+
+@media (max-width: 991px){
+    .contenido{
+        width: 90%;
+    }
+}

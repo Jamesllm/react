@@ -1,0 +1,10 @@
+.conteinerSeries{
+    display: none;
+}
+
+@media (max-width: 991px){
+    .conteinerSeries{
+        margin-top: 0;
+        display: block;
+    }
+}

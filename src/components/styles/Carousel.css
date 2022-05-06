@@ -1,0 +1,17 @@
+.serie{
+    transition: .3s ease all;
+    cursor: pointer;
+}
+
+.serie:hover{
+    transform: scale(1.2);
+    transform-origin: center;
+}
+.control{width: 60px;}
+
+.control-buton{
+    border-radius: 5px;
+    height: 90%;
+    width: 60%
+}
+

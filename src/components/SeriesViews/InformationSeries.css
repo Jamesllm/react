@@ -1,0 +1,19 @@
+
+.clearfix{
+    width: 50%;
+    margin: auto;
+}
+
+.image{
+    width: 200px;
+}
+
+@media (max-width: 991px){
+    .clearfix{
+        width: 100%;
+    }
+    .image{
+        display: block;
+        margin: auto;
+    }
+}

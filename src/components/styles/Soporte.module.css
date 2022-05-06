@@ -1,0 +1,31 @@
+.conteiner{
+    width: 60%;
+    margin: auto;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.conteinerImage{
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+.questions{
+    color: #FF380E;
+}
+
+a{text-decoration: none;}
+
+.nameApp{color: lawngreen;}
+
+@media screen and (max-width:800px){
+    .conteiner{
+        width: 90%;
+    }
+
+    .conteinerImage{
+        width: 100%;
+    }
+}

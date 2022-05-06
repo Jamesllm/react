@@ -1,0 +1,17 @@
+.serieCard{
+    list-style: none;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+}
+
+.serieImage{
+    border-radius: 5px;
+}
+
+@media (max-width: 560px){
+    .serieImage{
+        width: 90%;
+        height: auto;
+    }
+}
